@@ -14,3 +14,14 @@ I am a industrial engineering student, currently halfway through my degree. I am
 - Outside tech, 💜I love playing videogames🎮, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="ramirezparn@gmail.com">ramirezparn@gmail.com</a>
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
